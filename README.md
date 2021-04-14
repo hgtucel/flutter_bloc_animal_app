@@ -1,4 +1,4 @@
-# Flutter Katmanlı Mimari ve Bloc ile Animal App
+# Animal App with Flutter Layered Architecture and Bloc
 
 <img height="500" src="https://github.com/hgtucel/flutter_bloc_animal_app/blob/main/animal_i8.png" alt="Animal App Mockup"/>
 
