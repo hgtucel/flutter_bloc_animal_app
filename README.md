@@ -9,3 +9,7 @@
 - ~~Category List~~
 - Authentication (Login / Register)
 - Animal List
+
+### Project Details
+- UI: https://www.uplabs.com/posts/daily-exercises-app-freebie
+- Packages: http, bloc, flutter_svg
